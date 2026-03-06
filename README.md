@@ -1,6 +1,6 @@
-## About Me
+## About Me 
 
-I'm Sanket, an MCA student and full-stack developer who enjoys building useful and practical digital products. My focus is on creating web applications that solve real-life problems and deliver clean, user-friendly experiences.
+Hey 👋 I'm Sanket, an MCA student and full-stack developer who enjoys building useful and practical digital products. My focus is on creating web applications that solve real-life problems and deliver clean, user-friendly experiences.
 
 I work with technologies like React, Next.js, Node.js, and MongoDB to build scalable full-stack applications. I actively participate in hackathons and continuously work on projects to sharpen my skills.
 
