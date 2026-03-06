@@ -4,7 +4,7 @@ Hey 👋 I'm Sanket, an MCA student and full-stack developer who enjoys building
 
 I work with technologies like React, Next.js, Node.js, and MongoDB to build scalable full-stack applications. I actively participate in hackathons and continuously work on projects to sharpen my skills.
 
-My goal is simple: keep building, keep learning, and turn ideas into real products that people can actually use.
+My goal is simple:- keep building, keep learning, and turn ideas into real products that people can actually use.
 
 
 ## 🌐 Socials:
